@@ -1,1 +1,11 @@
 C:\Users\Administrator\Documents\GitHub\demo_project\Demo_GitHub\Demo_GitHub\bin\Debug\Demo_GitHub.exe.config
+C:\Users\Administrator\Documents\GitHub\demo_project\Demo_GitHub\Demo_GitHub\bin\Debug\Demo_GitHub.exe
+C:\Users\Administrator\Documents\GitHub\demo_project\Demo_GitHub\Demo_GitHub\bin\Debug\Demo_GitHub.pdb
+C:\Users\Administrator\Documents\GitHub\demo_project\Demo_GitHub\Demo_GitHub\obj\Debug\Demo_GitHub.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\demo_project\Demo_GitHub\Demo_GitHub\obj\Debug\Demo_GitHub.Form1.resources
+C:\Users\Administrator\Documents\GitHub\demo_project\Demo_GitHub\Demo_GitHub\obj\Debug\Demo_GitHub.Form2.resources
+C:\Users\Administrator\Documents\GitHub\demo_project\Demo_GitHub\Demo_GitHub\obj\Debug\Demo_GitHub.Form3.resources
+C:\Users\Administrator\Documents\GitHub\demo_project\Demo_GitHub\Demo_GitHub\obj\Debug\Demo_GitHub.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\demo_project\Demo_GitHub\Demo_GitHub\obj\Debug\Demo_GitHub.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\GitHub\demo_project\Demo_GitHub\Demo_GitHub\obj\Debug\Demo_GitHub.exe
+C:\Users\Administrator\Documents\GitHub\demo_project\Demo_GitHub\Demo_GitHub\obj\Debug\Demo_GitHub.pdb
